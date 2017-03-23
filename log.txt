@@ -1,0 +1,110 @@
+北海道で検索した結果（34 件） | スターバックス コーヒー ジャパン
+34 stores found.
+青森県で検索した結果（8 件） | スターバックス コーヒー ジャパン
+8 stores found.
+岩手県で検索した結果（6 件） | スターバックス コーヒー ジャパン
+6 stores found.
+宮城県で検索した結果（19 件） | スターバックス コーヒー ジャパン
+19 stores found.
+秋田県で検索した結果（5 件） | スターバックス コーヒー ジャパン
+5 stores found.
+山形県で検索した結果（6 件） | スターバックス コーヒー ジャパン
+6 stores found.
+福島県で検索した結果（7 件） | スターバックス コーヒー ジャパン
+7 stores found.
+茨城県で検索した結果（30 件） | スターバックス コーヒー ジャパン
+30 stores found.
+栃木県で検索した結果（21 件） | スターバックス コーヒー ジャパン
+21 stores found.
+群馬県で検索した結果（13 件） | スターバックス コーヒー ジャパン
+13 stores found.
+埼玉県で検索した結果（60 件） | スターバックス コーヒー ジャパン
+60 stores found.
+千葉県で検索した結果（59 件） | スターバックス コーヒー ジャパン
+59 stores found.
+東京都で検索した結果（302 件） | スターバックス コーヒー ジャパン
+302 stores found.
+java.lang.NullPointerException: Cannot get property 'geometry' on null object
+storeAddress: 東京都 千代田区 丸の内1-9-1 丸の内中央ビル
+java.lang.NullPointerException: Cannot get property 'geometry' on null object
+storeAddress: 東京都 千代田区 丸の内2-4-1 丸の内ビルディング
+java.lang.NullPointerException: Cannot get property 'geometry' on null object
+storeAddress: 東京都 世田谷区 松原2-46-5 Ｒｙｕ’ｓビル 1F
+神奈川県で検索した結果（99 件） | スターバックス コーヒー ジャパン
+99 stores found.
+3 23, 2017 5:18:40 午前 org.apache.http.impl.client.DefaultHttpClient tryExecute
+情報: I/O exception (java.net.SocketException) caught when processing request to {s}->https://maps.googleapis.com:443: Connection reset
+3 23, 2017 5:18:40 午前 org.apache.http.impl.client.DefaultHttpClient tryExecute
+情報: Retrying request to {s}->https://maps.googleapis.com:443
+java.lang.NullPointerException: Cannot get property 'geometry' on null object
+storeAddress: 神奈川県 厚木市 中町2-6-20 相模興業本厚木中町ビル １F
+java.lang.NullPointerException: Cannot get property 'geometry' on null object
+storeAddress: 神奈川県 横浜市戸塚区 戸塚町16-1 (区画番号Ｄ-101）
+新潟県で検索した結果（11 件） | スターバックス コーヒー ジャパン
+11 stores found.
+富山県で検索した結果（9 件） | スターバックス コーヒー ジャパン
+9 stores found.
+石川県で検索した結果（9 件） | スターバックス コーヒー ジャパン
+9 stores found.
+福井県で検索した結果（5 件） | スターバックス コーヒー ジャパン
+5 stores found.
+山梨県で検索した結果（10 件） | スターバックス コーヒー ジャパン
+10 stores found.
+長野県で検索した結果（17 件） | スターバックス コーヒー ジャパン
+17 stores found.
+岐阜県で検索した結果（11 件） | スターバックス コーヒー ジャパン
+11 stores found.
+静岡県で検索した結果（30 件） | スターバックス コーヒー ジャパン
+30 stores found.
+愛知県で検索した結果（83 件） | スターバックス コーヒー ジャパン
+83 stores found.
+三重県で検索した結果（15 件） | スターバックス コーヒー ジャパン
+15 stores found.
+滋賀県で検索した結果（14 件） | スターバックス コーヒー ジャパン
+14 stores found.
+京都府で検索した結果（31 件） | スターバックス コーヒー ジャパン
+31 stores found.
+大阪府で検索した結果（95 件） | スターバックス コーヒー ジャパン
+95 stores found.
+兵庫県で検索した結果（46 件） | スターバックス コーヒー ジャパン
+46 stores found.
+奈良県で検索した結果（10 件） | スターバックス コーヒー ジャパン
+10 stores found.
+和歌山県で検索した結果（7 件） | スターバックス コーヒー ジャパン
+7 stores found.
+鳥取県で検索した結果（4 件） | スターバックス コーヒー ジャパン
+4 stores found.
+島根県で検索した結果（3 件） | スターバックス コーヒー ジャパン
+3 stores found.
+岡山県で検索した結果（12 件） | スターバックス コーヒー ジャパン
+12 stores found.
+広島県で検索した結果（18 件） | スターバックス コーヒー ジャパン
+18 stores found.
+山口県で検索した結果（4 件） | スターバックス コーヒー ジャパン
+4 stores found.
+徳島県で検索した結果（3 件） | スターバックス コーヒー ジャパン
+3 stores found.
+香川県で検索した結果（8 件） | スターバックス コーヒー ジャパン
+8 stores found.
+愛媛県で検索した結果（9 件） | スターバックス コーヒー ジャパン
+9 stores found.
+高知県で検索した結果（4 件） | スターバックス コーヒー ジャパン
+4 stores found.
+福岡県で検索した結果（48 件） | スターバックス コーヒー ジャパン
+48 stores found.
+佐賀県で検索した結果（8 件） | スターバックス コーヒー ジャパン
+8 stores found.
+長崎県で検索した結果（8 件） | スターバックス コーヒー ジャパン
+8 stores found.
+熊本県で検索した結果（9 件） | スターバックス コーヒー ジャパン
+9 stores found.
+大分県で検索した結果（7 件） | スターバックス コーヒー ジャパン
+7 stores found.
+宮崎県で検索した結果（4 件） | スターバックス コーヒー ジャパン
+4 stores found.
+鹿児島県で検索した結果（4 件） | スターバックス コーヒー ジャパン
+4 stores found.
+沖縄県で検索した結果（21 件） | スターバックス コーヒー ジャパン
+21 stores found.
+
+Process finished with exit code 0
