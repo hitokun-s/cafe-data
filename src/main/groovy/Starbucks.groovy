@@ -3,9 +3,11 @@ import org.openqa.selenium.By
 import org.openqa.selenium.WebElement
 import org.openqa.selenium.chrome.ChromeDriver
 
-class Main {
+class Starbucks {
 
     static void main(String[] args){
+
+        def fileName = "starbucks.csv"
 
 //        def driver = new HtmlUnitDriver(BrowserVersion.INTERNET_EXPLORER_11)
         def driver = new ChromeDriver()
@@ -13,7 +15,7 @@ class Main {
         def geoCodingUrl = "https://maps.googleapis.com/maps/api/geocode/"
         def client = new RESTClient( geoCodingUrl )
 
-        new File('result.csv').text = ""
+        new File(fileName).text = ""
         
         def exec = { prefectureIdx ->
             driver.get("http://www.starbucks.co.jp/store/search/result.php?search_type=1&pref_code=$prefectureIdx")
@@ -47,7 +49,7 @@ class Main {
                 }
                 Thread.sleep(2000) // for Google API blocking
             }
-            def file = new File('result.csv')
+            def file = new File(fileName)
             file.append(lines)
         }
 
